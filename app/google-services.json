@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324110842011",
+    "project_id": "plantecollection-dc226",
+    "storage_bucket": "plantecollection-dc226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324110842011:android:63e8b591efcc14ced4ae3e",
+        "android_client_info": {
+          "package_name": "fr.leopold.projectesiea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324110842011-54m2l84opa1vd7qoefonpna3rtkiit9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5_uqPoaWQfGBdIuPNd8lJesUzwTJhtTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324110842011-54m2l84opa1vd7qoefonpna3rtkiit9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

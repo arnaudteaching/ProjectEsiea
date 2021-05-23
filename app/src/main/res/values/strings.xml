@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Gapchapon Pokemon</string>
+    <string name="bottom_home_item">Acceuil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_plant_item">A venir</string>
+
+
+    <!-- Page d'acceuil -->
+    <string name="home_page_title">A decouvrir</string>
+    <string name="home_page_last_plant_section"> Dernier Pokemon </string>
+
+    <!-- Page de  collection -->
+    <string name="collection_page_title">Ma Collection</string>
+
+    <!-- Page d'Ajout de plant & customise à enlever quand on aura réussit à lié ce projet avec les tp  -->
+    <string name="add_pant_page_title">Ajout d\"une plante</string>
+    <string name="add_plant_page_upload_button"> Charger l\"image </string>
+    <string name="add_plant_page_name_input"> @string/item_plant_name </string>
+    <string name="add_plant_page_description_input"> @string/item_plant_description</string>
+
+    <string-array name= "add_plant_page_draw_spinner_input">
+        <item>Croissance : Lente</item>
+        <item>Croissance :Moyenne</item>
+        <item>Croissance :Rapide</item>
+    </string-array>
+
+    <string-array name = "add_plant_page_water_spinner_input">
+        <item>Consommation : Faible</item>
+        <item>Consommation:Moyenne</item>
+        <item>Consommation :Eleve</item>
+    </string-array>
+
+    <string name ="add_plant_page_confirm_button">Confirmer</string>
+    <!-- Plante customise -->
+    <string name="item_plant_name"> Nom de la plante </string>
+    <string name="item_plant_description"> Description de la plante </string>
+
+    <!-- Fenetre Popup de details-->
+    <string name= "popup_plant_name">Plant Name</string>
+    <string name= "popup_plant_description_title">Description</string>
+    <string name= "popup_plant_description_subtitle">Petite description</string>
+    <string name= "popup_plant_grow_title">Type</string>
+    <string name= "popup_plant_grow_subtitle">Lente</string>
+    <string name= "popup_plant_water_title">Entretien</string>
+    <string name= "popup_plant_water_subtitle">Faible</string>
+
+
+
+
+
+
+
+</resources>
